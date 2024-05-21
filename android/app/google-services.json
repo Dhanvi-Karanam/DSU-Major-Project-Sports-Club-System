@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "713335894448",
+    "firebase_url": "https://sporteasy-1ccba-default-rtdb.firebaseio.com",
+    "project_id": "sporteasy-1ccba",
+    "storage_bucket": "sporteasy-1ccba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713335894448:android:6df5c8fbd4bd25b121a675",
+        "android_client_info": {
+          "package_name": "com.example.sports_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713335894448-718b623nmv2rqp78dgsvb6lvf6qcc7qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPuy5XG1YqV3XA_oHC0u5bCbJex-e-ElI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713335894448-718b623nmv2rqp78dgsvb6lvf6qcc7qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713335894448:android:569fbd6a79326cc121a675",
+        "android_client_info": {
+          "package_name": "com.example.sports_management_updated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713335894448-718b623nmv2rqp78dgsvb6lvf6qcc7qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPuy5XG1YqV3XA_oHC0u5bCbJex-e-ElI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713335894448-718b623nmv2rqp78dgsvb6lvf6qcc7qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
